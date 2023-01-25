@@ -28,6 +28,53 @@
   color: #61dafb;
 }
 
+.main-banner {
+  width: 90%;
+}
+
+.ad-image {
+  width: 100%;
+}
+
+.ad-banner {
+  width: 100%;
+}
+
+.product-img {
+  width: 80%;
+}
+
+.product-name {
+  text-transform: uppercase;
+  text-align: left;
+  margin-bottom: -55px;
+}
+
+.product-price {
+  font-size: 25px;
+  font-weight: 800;
+  color: #5CB149;
+  text-align: left;
+  margin-bottom: -1px;
+}
+
+.footer-bg {
+  background-color: black;
+  padding-left: 5px;
+}
+
+.footer-bg h2 {
+  color: #5CB149;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.footer-bg h5 {
+  color: #d4dad3;
+  text-align: left;
+  text-transform: capitalize;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

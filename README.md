@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Figma Wireframe
+(https://www.figma.com/proto/3ZG08IKuOlxBSD5RD9mm51/ecom-web-landing?page-id=0%3A1&node-id=1%3A2&scaling=min-zoom)
 
 ## Available Scripts
 
